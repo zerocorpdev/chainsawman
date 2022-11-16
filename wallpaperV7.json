@@ -1,0 +1,642 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Animal",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Car",
+      "image": "file:///android_asset/image/car.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+            "id": "1",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man1",
+            "image": "https://i.pinimg.com/236x/21/80/a1/2180a1541e60529cab63e94d961381f2.jpg"
+        },
+        {
+            "id": "2",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man2",
+            "image": "https://i.pinimg.com/236x/de/14/65/de1465d863292b53f3b03d76862501e5.jpg"
+        },
+        {
+            "id": "3",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man3",
+            "image": "https://i.pinimg.com/236x/2a/f6/09/2af609bc5d2cefd47315d697ac599334.jpg"
+        },
+        {
+            "id": "4",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man4",
+            "image": "https://i.pinimg.com/236x/30/66/28/3066285874cbaed701b1543d63e2a0a0.jpg"
+        },
+        {
+            "id": "5",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man5",
+            "image": "https://i.pinimg.com/236x/a0/2b/1d/a02b1de4b86dee6fcf12c4b522a7654e.jpg"
+        },
+        {
+            "id": "6",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man6",
+            "image": "https://i.pinimg.com/236x/96/5d/2b/965d2baab2d098308a605f67fb4e610d.jpg"
+        },
+        {
+            "id": "7",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man7",
+            "image": "https://i.pinimg.com/236x/c5/72/d2/c572d288a6fa575f5528c091366b7493.jpg"
+        },
+        {
+            "id": "8",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man8",
+            "image": "https://i.pinimg.com/236x/21/80/a1/2180a1541e60529cab63e94d961381f2.jpg"
+        },
+        {
+            "id": "9",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man9",
+            "image": "https://i.pinimg.com/236x/de/14/65/de1465d863292b53f3b03d76862501e5.jpg"
+        },
+        {
+            "id": "10",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man10",
+            "image": "https://i.pinimg.com/236x/2a/f6/09/2af609bc5d2cefd47315d697ac599334.jpg"
+        },
+        {
+            "id": "11",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man11",
+            "image": "https://i.pinimg.com/236x/30/66/28/3066285874cbaed701b1543d63e2a0a0.jpg"
+        },
+        {
+            "id": "12",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man12",
+            "image": "https://i.pinimg.com/236x/a0/2b/1d/a02b1de4b86dee6fcf12c4b522a7654e.jpg"
+        },
+        {
+            "id": "13",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man13",
+            "image": "https://i.pinimg.com/236x/96/5d/2b/965d2baab2d098308a605f67fb4e610d.jpg"
+        },
+        {
+            "id": "14",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man14",
+            "image": "https://i.pinimg.com/236x/c5/72/d2/c572d288a6fa575f5528c091366b7493.jpg"
+        },
+        {
+            "id": "15",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man15",
+            "image": "https://i.pinimg.com/236x/ac/4e/07/ac4e0794dea914c971dcd65b1220c177.jpg"
+        },
+        {
+            "id": "16",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man16",
+            "image": "https://i.pinimg.com/236x/6a/26/6a/6a266a4268e1318c554dc401d109b62b.jpg"
+        },
+        {
+            "id": "17",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man17",
+            "image": "https://i.pinimg.com/236x/db/87/5c/db875cba69d03c83d0ebb38483904b4d.jpg"
+        },
+        {
+            "id": "18",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man18",
+            "image": "https://i.pinimg.com/236x/f6/81/25/f6812583fd2a336ea8864d3e7abdc390.jpg"
+        },
+        {
+            "id": "19",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man19",
+            "image": "https://i.pinimg.com/236x/1a/da/90/1ada90cc1fd1fbe44f2d0d473e715fa3.jpg"
+        },
+        {
+            "id": "20",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man20",
+            "image": "https://i.pinimg.com/236x/b5/3f/a8/b53fa87c4d319ecc1b4656536cf737d7.jpg"
+        },
+        {
+            "id": "21",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man21",
+            "image": "https://i.pinimg.com/236x/34/fa/bd/34fabd2765dea8f5c1252ddb6b10e142.jpg"
+        },
+        {
+            "id": "22",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man22",
+            "image": "https://i.pinimg.com/236x/c5/72/d2/c572d288a6fa575f5528c091366b7493.jpg"
+        },
+        {
+            "id": "23",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man23",
+            "image": "https://i.pinimg.com/236x/ac/4e/07/ac4e0794dea914c971dcd65b1220c177.jpg"
+        },
+        {
+            "id": "24",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man24",
+            "image": "https://i.pinimg.com/236x/6a/26/6a/6a266a4268e1318c554dc401d109b62b.jpg"
+        },
+        {
+            "id": "25",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man25",
+            "image": "https://i.pinimg.com/236x/db/87/5c/db875cba69d03c83d0ebb38483904b4d.jpg"
+        },
+        {
+            "id": "26",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man26",
+            "image": "https://i.pinimg.com/236x/f6/81/25/f6812583fd2a336ea8864d3e7abdc390.jpg"
+        },
+        {
+            "id": "27",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man27",
+            "image": "https://i.pinimg.com/236x/1a/da/90/1ada90cc1fd1fbe44f2d0d473e715fa3.jpg"
+        },
+        {
+            "id": "28",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man28",
+            "image": "https://i.pinimg.com/236x/b5/3f/a8/b53fa87c4d319ecc1b4656536cf737d7.jpg"
+        },
+        {
+            "id": "29",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man29",
+            "image": "https://i.pinimg.com/236x/34/fa/bd/34fabd2765dea8f5c1252ddb6b10e142.jpg"
+        },
+        {
+            "id": "30",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man30",
+            "image": "https://i.pinimg.com/236x/30/20/28/30202814d0e4e6cb58a1c21a09fdd26c.jpg"
+        },
+        {
+            "id": "31",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man31",
+            "image": "https://i.pinimg.com/236x/36/b8/e2/36b8e2cdb6cb1276d0f027c97f8b1385.jpg"
+        },
+        {
+            "id": "32",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man32",
+            "image": "https://i.pinimg.com/236x/ea/39/e1/ea39e192e24636b5a4b60b843a0552e0.jpg"
+        },
+        {
+            "id": "33",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man33",
+            "image": "https://i.pinimg.com/236x/05/34/26/0534262604753bc524112ffcbf386319.jpg"
+        },
+        {
+            "id": "34",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man34",
+            "image": "https://i.pinimg.com/236x/18/d4/3f/18d43f97ff32f7bcd2d39daf1762805c.jpg"
+        },
+        {
+            "id": "35",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man35",
+            "image": "https://i.pinimg.com/236x/02/75/70/0275709871f818c86d96d443368af3e1.jpg"
+        },
+        {
+            "id": "36",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man36",
+            "image": "https://i.pinimg.com/236x/35/42/5a/35425ade5b15cad4a1fd2bb5bb320793.jpg"
+        },
+        {
+            "id": "37",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man37",
+            "image": "https://i.pinimg.com/236x/ec/62/1c/ec621c410a702f578af457ead76dabf3.jpg"
+        },
+        {
+            "id": "38",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man38",
+            "image": "https://i.pinimg.com/236x/a0/2b/1d/a02b1de4b86dee6fcf12c4b522a7654e.jpg"
+        },
+        {
+            "id": "39",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man39",
+            "image": "https://i.pinimg.com/236x/96/5d/2b/965d2baab2d098308a605f67fb4e610d.jpg"
+        },
+        {
+            "id": "40",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man40",
+            "image": "https://i.pinimg.com/236x/c5/72/d2/c572d288a6fa575f5528c091366b7493.jpg"
+        },
+        {
+            "id": "41",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man41",
+            "image": "https://i.pinimg.com/236x/ac/4e/07/ac4e0794dea914c971dcd65b1220c177.jpg"
+        },
+        {
+            "id": "42",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man42",
+            "image": "https://i.pinimg.com/236x/6a/26/6a/6a266a4268e1318c554dc401d109b62b.jpg"
+        },
+        {
+            "id": "43",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man43",
+            "image": "https://i.pinimg.com/236x/db/87/5c/db875cba69d03c83d0ebb38483904b4d.jpg"
+        },
+        {
+            "id": "44",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man44",
+            "image": "https://i.pinimg.com/236x/f6/81/25/f6812583fd2a336ea8864d3e7abdc390.jpg"
+        },
+        {
+            "id": "45",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man45",
+            "image": "https://i.pinimg.com/236x/1a/da/90/1ada90cc1fd1fbe44f2d0d473e715fa3.jpg"
+        },
+        {
+            "id": "46",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man46",
+            "image": "https://i.pinimg.com/236x/b5/3f/a8/b53fa87c4d319ecc1b4656536cf737d7.jpg"
+        },
+        {
+            "id": "47",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man47",
+            "image": "https://i.pinimg.com/236x/34/fa/bd/34fabd2765dea8f5c1252ddb6b10e142.jpg"
+        },
+        {
+            "id": "48",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man48",
+            "image": "https://i.pinimg.com/236x/30/20/28/30202814d0e4e6cb58a1c21a09fdd26c.jpg"
+        },
+        {
+            "id": "49",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man49",
+            "image": "https://i.pinimg.com/236x/36/b8/e2/36b8e2cdb6cb1276d0f027c97f8b1385.jpg"
+        },
+        {
+            "id": "50",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man50",
+            "image": "https://i.pinimg.com/236x/ea/39/e1/ea39e192e24636b5a4b60b843a0552e0.jpg"
+        },
+        {
+            "id": "51",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man51",
+            "image": "https://i.pinimg.com/236x/05/34/26/0534262604753bc524112ffcbf386319.jpg"
+        },
+        {
+            "id": "52",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man52",
+            "image": "https://i.pinimg.com/236x/18/d4/3f/18d43f97ff32f7bcd2d39daf1762805c.jpg"
+        },
+        {
+            "id": "53",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man53",
+            "image": "https://i.pinimg.com/236x/02/75/70/0275709871f818c86d96d443368af3e1.jpg"
+        },
+        {
+            "id": "54",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man54",
+            "image": "https://i.pinimg.com/236x/35/42/5a/35425ade5b15cad4a1fd2bb5bb320793.jpg"
+        },
+        {
+            "id": "55",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man55",
+            "image": "https://i.pinimg.com/236x/ec/62/1c/ec621c410a702f578af457ead76dabf3.jpg"
+        },
+        {
+            "id": "56",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man56",
+            "image": "https://i.pinimg.com/236x/7b/74/b0/7b74b0690c065270f9b71afb12e8743e.jpg"
+        },
+        {
+            "id": "57",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man57",
+            "image": "https://i.pinimg.com/236x/e3/e2/0d/e3e20dbb781a649883d58a53da767e16.jpg"
+        },
+        {
+            "id": "58",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man58",
+            "image": "https://i.pinimg.com/236x/8d/a1/08/8da1085e802c90f3b82ece2755edaecd.jpg"
+        },
+        {
+            "id": "59",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man59",
+            "image": "https://i.pinimg.com/236x/32/24/aa/3224aa51b830a300467997e076a2292f.jpg"
+        },
+        {
+            "id": "60",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man60",
+            "image": "https://i.pinimg.com/236x/ec/62/1c/ec621c410a702f578af457ead76dabf3.jpg"
+        },
+        {
+            "id": "61",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man61",
+            "image": "https://i.pinimg.com/236x/8d/a1/08/8da1085e802c90f3b82ece2755edaecd.jpg"
+        },
+        {
+            "id": "62",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man62",
+            "image": "https://i.pinimg.com/236x/32/24/aa/3224aa51b830a300467997e076a2292f.jpg"
+        },
+        {
+            "id": "63",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man63",
+            "image": "https://i.pinimg.com/236x/e0/e0/40/e0e040fe4c0a9fc1648f75fa756c823e.jpg"
+        },
+        {
+            "id": "64",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man64",
+            "image": "https://i.pinimg.com/236x/47/cf/0e/47cf0e9caebe45e0caeac72acbed5c39.jpg"
+        },
+        {
+            "id": "65",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man65",
+            "image": "https://i.pinimg.com/236x/14/b2/14/14b2145ef9bdbab1de94a23eb02d560a.jpg"
+        },
+        {
+            "id": "66",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man66",
+            "image": "https://i.pinimg.com/236x/4d/bb/5c/4dbb5c8b73b2b90ea401396fe3f28591.jpg"
+        },
+        {
+            "id": "67",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man67",
+            "image": "https://i.pinimg.com/236x/17/a4/21/17a421e88199e73c7e4ac417ae01514a.jpg"
+        },
+        {
+            "id": "68",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man68",
+            "image": "https://i.pinimg.com/236x/01/cc/ce/01ccce6794dd7e67cbada673143c2076.jpg"
+        },
+        {
+            "id": "69",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man69",
+            "image": "https://i.pinimg.com/236x/0f/73/c8/0f73c85a874be7ab01c72bd22a9f5863.jpg"
+        },
+        {
+            "id": "70",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man70",
+            "image": "https://i.pinimg.com/236x/0f/73/c8/0f73c85a874be7ab01c72bd22a9f5863.jpg"
+        },
+        {
+            "id": "71",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man71",
+            "image": "https://i.pinimg.com/236x/fa/46/c0/fa46c0ffe4dc4cfcf9324d741e5e5dee.jpg"
+        },
+        {
+            "id": "72",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man72",
+            "image": "https://i.pinimg.com/236x/7e/27/be/7e27bef2cb9c57e2e8b666f3f79e4d92.jpg"
+        },
+        {
+            "id": "73",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man73",
+            "image": "https://i.pinimg.com/236x/6d/42/33/6d42334e54b96bc6d04f515646a2bd10.jpg"
+        },
+        {
+            "id": "74",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man74",
+            "image": "https://i.pinimg.com/236x/9b/bf/41/9bbf41f3657e8d404328de04760987d0.jpg"
+        },
+        {
+            "id": "75",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man75",
+            "image": "https://i.pinimg.com/236x/29/3c/ac/293cacb7ce58d3188c3763ec7ee1e5e3.jpg"
+        },
+        {
+            "id": "76",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man76",
+            "image": "https://i.pinimg.com/236x/0c/b4/7c/0cb47c57cd09e9bebb7dce503c10eba7.jpg"
+        },
+        {
+            "id": "77",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man77",
+            "image": "https://i.pinimg.com/236x/1f/c9/22/1fc922b6695939a46fe6f8ea884cf05c.jpg"
+        },
+        {
+            "id": "78",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man78",
+            "image": "https://i.pinimg.com/236x/10/61/a8/1061a89fc2b84324407ad6ec8c4c15b2.jpg"
+        },
+        {
+            "id": "79",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man79",
+            "image": "https://i.pinimg.com/236x/e7/4d/59/e74d5939a7545be81191a40b40912a92.jpg"
+        },
+        {
+            "id": "80",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man80",
+            "image": "https://i.pinimg.com/236x/fa/70/3f/fa703ff3a29a9480b85b2a8c66f86fb7.jpg"
+        },
+        {
+            "id": "81",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man81",
+            "image": "https://i.pinimg.com/236x/87/f7/d0/87f7d09ffe124dfe5adcf1624ab16c01.jpg"
+        },
+        {
+            "id": "82",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man82",
+            "image": "https://i.pinimg.com/236x/16/2b/f7/162bf7db1e3ad695f59e03c80097cf30.jpg"
+        },
+        {
+            "id": "83",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man83",
+            "image": "https://i.pinimg.com/236x/21/80/a1/2180a1541e60529cab63e94d961381f2.jpg"
+        },
+        {
+            "id": "84",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man84",
+            "image": "https://i.pinimg.com/236x/de/14/65/de1465d863292b53f3b03d76862501e5.jpg"
+        },
+        {
+            "id": "85",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man85",
+            "image": "https://i.pinimg.com/236x/2a/f6/09/2af609bc5d2cefd47315d697ac599334.jpg"
+        },
+        {
+            "id": "86",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man86",
+            "image": "https://i.pinimg.com/236x/30/66/28/3066285874cbaed701b1543d63e2a0a0.jpg"
+        },
+        {
+            "id": "87",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man87",
+            "image": "https://i.pinimg.com/236x/a0/2b/1d/a02b1de4b86dee6fcf12c4b522a7654e.jpg"
+        },
+        {
+            "id": "88",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man88",
+            "image": "https://i.pinimg.com/236x/96/5d/2b/965d2baab2d098308a605f67fb4e610d.jpg"
+        },
+        {
+            "id": "89",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man89",
+            "image": "https://i.pinimg.com/236x/c5/72/d2/c572d288a6fa575f5528c091366b7493.jpg"
+        },
+        {
+            "id": "90",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man90",
+            "image": "https://i.pinimg.com/236x/ac/4e/07/ac4e0794dea914c971dcd65b1220c177.jpg"
+        },
+        {
+            "id": "91",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man91",
+            "image": "https://i.pinimg.com/236x/6a/26/6a/6a266a4268e1318c554dc401d109b62b.jpg"
+        },
+        {
+            "id": "92",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man92",
+            "image": "https://i.pinimg.com/236x/db/87/5c/db875cba69d03c83d0ebb38483904b4d.jpg"
+        },
+        {
+            "id": "93",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man93",
+            "image": "https://i.pinimg.com/236x/f6/81/25/f6812583fd2a336ea8864d3e7abdc390.jpg"
+        },
+        {
+            "id": "94",
+            "name_category": "denji-chainsaw-man",
+            "title": "denji-chainsaw-man94",
+            "image": "https://i.pinimg.com/236x/1a/da/90/1ada90cc1fd1fbe44f2d0d473e715fa3.jpg"
+        }
+    ]
+}
